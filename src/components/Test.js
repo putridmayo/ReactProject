@@ -1,6 +1,7 @@
-import Button from 'react-bootstrap/Button';
+import Button from 'react-bootstrap/Button'
+
 export function Test () {
     return (
-       <Button variant="primary">Hello Button</Button> 
+        <Button variant="primary">Hello Button</Button>
     )
 }
